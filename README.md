@@ -45,7 +45,7 @@ Abra o arquivo index.html no navegador.
 🔗 Deploy
 
 O projeto pode ser acessado online:
-👉 Ver no Vercel
+👉 Ver no Vercel https://vercel.com/rafaer3468s-projects/calculadora-js
 
 📚 Aprendizados
 
